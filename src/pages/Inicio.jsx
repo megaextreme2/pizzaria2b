@@ -6,6 +6,7 @@ const Inicio = () => {
 
     return (
         <div>
+            <h2>Título Pizzaria</h2>
             <p>Outra tela Inicial</p>
             <img className='img-fluid' 
             src={logo} 
